@@ -1,7 +1,7 @@
 const languages = ["Java", "Javascript", "TypeScript", "C#"];
 
 const frontEnd = [
-  "React / Next.js / React Native",
+  "React / Backbone / Next.js / React Native",
   "Vue.js / Vuetify",
   "Shopify / WordPress/ Elementor",
   "Tailwind CSS / SCSS",
@@ -11,8 +11,8 @@ const frontEnd = [
 const backEnd = ["Node / Laravel / WP", "MongoDB / PostgreSQL / MYSQL", "Express / RESTFul API", "Solidity / Rust (Axum)", "Solana"];
 
 const tools = [
-  "VS Code",
-  "Visual Studio",
+  "Jira / Trello / Slack",
+  "Visual Studio / QT",
   "Git / Github",
   "Powershell / Bash",
   "AWS / CloudFlare / Oracle / Vercel"
