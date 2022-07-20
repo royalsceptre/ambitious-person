@@ -38,9 +38,9 @@ function ContactInfo() {
           display: inline-block;
           margin-bottom: 30px;
         `}
-        href="mailto:aaronchupa610@gmail.com"
+        href="mailto:royalsceptre88@gmail.com"
       >
-        aaronchupa610@gmail.com
+        royalsceptre88@gmail.com
       </a>
       <br />
       <div className={css`display: flex`}>
@@ -62,7 +62,7 @@ function ContactInfo() {
           <SocialLink
             className={anchorStyle}
             type="CodePen"
-            href="https://codepen.io/aaronchupa"
+            href="https://codepen.io/bogdan"
             width="32px"
             height="32px"
           />

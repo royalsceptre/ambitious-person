@@ -2,14 +2,14 @@ import React from "react";
 
 const resumeWorkHistory = [
   {
-    title: "Freelance Web Development & Lead Developer, 2016-Present",
+    title: "Senior Blockchain | Full Stack Developer (NFT marketplace, DEX), 2019-Ongoing",
     description:
-      "Full-stack development, DevOps, specializing in React and Node based websites."
+      "Developed Smart Contracts (ERC20, ERC721, BEP20) using Solidity, Rust deployed on BSC, Ethereum, Bitgert, Polygon.Solidity 0.8.12, Avalanche Network, C-chain, X-chain, React.js,Redux, web3.js, HTML, CSS, SCSS, Node.js, Metamask, effective game engine to save gas fees, AWS, RDS. Proxy, upgradable smart contracts, which you can upgrade your smart contracts."
   },
   {
-    title: "Freelance Programmer & Computer Technician, 2011-2018",
+    title: "Web Game developer (WebGL, Three.js, Next.js, React.js), 2017-2019",
     description:
-      "Custom programming (Windows software), static websites, computer repair, and technical support."
+      "Lead teams of software engineers and organize the tasks to be delivered during each sprint using Trello. Set up an entirely new DevOps pipeline to accomplish continuous integration, continuous delivery, and continuous deployment. Good hands-on expertise in working with the Javascript frameworks like jQuery, Angular.js, Node.js, React.js, Vue.js and Next.js."
   }
 ];
 
@@ -87,7 +87,7 @@ const resumeEducation = [
   {
     title: "",
     description:
-      "Kharkiv National University - University of Advancing Technologies"
+      "Ukrainian Engineering and Pedagogical Academy - University of Advancing Technologies"
   }
 ];
 
@@ -98,11 +98,12 @@ const resumePersonalInfo = [
   },
   {
     title: "E-mail",
-    description: <a href="mailto:aaronchupa610@gmail.com">aaronchupa610@gmail.com</a>
+    description: <a href="mailto:royalsceptre88@gmail.com">royalsceptre88@gmail.com
+    </a>
   },
   {
     title: "Portfolio",
-    description: <a href="https://royals-sceptre.vercel.app/">royals-sceptre.vercel.app/</a>
+    description: <a href="https://ambitious-person.vercel.app/">ambitious-person.vercel.app/</a>
   },
   // {
   //   title: "LinkedIn",
@@ -115,7 +116,7 @@ const resumePersonalInfo = [
   {
     title: "Github",
     description: (
-      <a href="https://github.com/fulldev001">github.com/fulldev001</a>
+      <a href="https://github.com/talented0312">github.com/talented0312</a>
     )
   }
 ];

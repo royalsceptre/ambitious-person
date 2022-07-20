@@ -267,7 +267,7 @@ function Resume() {
   return (
     <Container>
       <Main>
-        <ResumeTitle title="Aaron Chupa" />
+        <ResumeTitle title="Bogdan Cherniavskyi" />
         <MainSection
           skills={[{ description: resume.description, key: "main-desc" }]}
         />

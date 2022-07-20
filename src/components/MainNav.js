@@ -86,7 +86,7 @@ function MainNav({ openNav, showHamburger, sectionRefs }) {
         />
         <SocialLink
           type="CodePen"
-          href="https://codepen.io/aaronchupa"
+          href="https://codepen.io/bogdan"
           width="20px"
           height="20px"
         />

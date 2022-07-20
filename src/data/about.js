@@ -12,8 +12,9 @@ const education = [
 const hobbies = ["Fitness", "Guitar", "Video Games", "TV, Movies, & Music"];
 
 const myJourneyParagraphs = [
-  "Hi, my name is Aron Chupa. I’m a web developer based in Ukraine.",
-  "I grew up in Kharkov where I worked as a freelance software developer. After taking on several programming jobs, including a massive project creating business software for a local company, I decided to start learning web development. The more I learned, the more I realized how fun and exciting it had become. Many different types of complex applications that could have only existed as desktop software in the past were now possible on the web. I started imagining what the future could bring and the possibilities seemed endless. I knew at that moment, that I wanted to become a part of this constantly growing and evolving field.",
+  "I'm professional web developer in creating website development for companies/industries, health care, management system.",
+  "Highly experienced in front-end / back-end development. My major responsibility was to make E-Commerce sites landing pages using React, Next.js, Vue.js, React Native and Tailwind CSS. In addition to this, there was backend development using Laravel, Django and Magento.",
+  "Also, I am well versed and have worked extensively in the following technologies/areas:Python AI function, React Redux, Hooks, SSR, SSA, C#, C++, .NET, Xamarin and Decision Trees.",
   "Web development quickly become my primary focus and passion, where I continue learning every day and seeking out new challenges."
 ];
 

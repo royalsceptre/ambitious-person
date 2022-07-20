@@ -20,7 +20,7 @@ function Footer() {
           padding: 6px 30px;
         `}
       >
-        Aaron Chupa © 2019
+        Bogdan Cherniavskyi © 2019
       </div>
     </footer>
   );
