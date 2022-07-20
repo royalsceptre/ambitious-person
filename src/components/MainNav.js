@@ -72,12 +72,12 @@ function MainNav({ openNav, showHamburger, sectionRefs }) {
           }
         `}
       >
-        {/* <SocialLink
-          type="LinkedIn"
-          href="https://www.linkedin.com/in/noah-sim-392a9a241"
+        <SocialLink
+          type="Skype"
+          href="https://join.skype.com/invite/ummaE6Aa58G0"
           width="20px"
           height="20px"
-        /> */}
+        />
         <SocialLink
           type="Github"
           href="https://github.com/fulldev001"

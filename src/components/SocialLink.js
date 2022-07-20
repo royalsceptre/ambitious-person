@@ -1,11 +1,11 @@
 import React from "react";
 
-import { LinkedInIcon, GithubIcon, CodePenIcon } from "./icons";
+import { SkypeIcon, GithubIcon, CodePenIcon } from "./icons";
 
 function getIcon(type) {
   switch (type) {
-    case "LinkedIn":
-      return LinkedInIcon;
+    case "Skype":
+      return SkypeIcon;
     case "Github":
       return GithubIcon;
     case "CodePen":

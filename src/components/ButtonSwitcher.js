@@ -62,7 +62,7 @@ function ButtonSwitcher({ labels = [], children }) {
           ))}
         </div>
         <a
-          href="Aarron_Chupa_Resume.pdf"
+          href="BogdanCherniavskyiResume.pdf"
           target="_blank"
           className={css`
             ${buttonStyle}
