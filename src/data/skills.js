@@ -8,7 +8,7 @@ const frontEnd = [
   "Three.js fiber / Drei",
 ];
 
-const backEnd = ["Node / Laravel / WP", "MongoDB / PostgreSQL / MYSQL", "Express / RESTFul API", "Solidity / Rust (Axum)", "Solana"];
+const backEnd = [" Golang / Node / Laravel / WP", "MongoDB / PostgreSQL / MYSQL", "Express / RESTFul API", "Solidity / Rust (Axum)", "Solana"];
 
 const tools = [
   "Jira / Trello / Slack",
